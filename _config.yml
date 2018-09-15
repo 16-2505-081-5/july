@@ -2,4 +2,4 @@ theme: jekyll-theme-cayman
 title: july introduction
 description: こないだ誕生日でした
 github:
-  is_project_page:false
+  is_project_page: false
