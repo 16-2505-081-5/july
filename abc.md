@@ -1,1 +1,4 @@
-ABCDDD
+## hinotori
+シュタゲ０おもろかった
+ZEROのラップおぼえたった
+
